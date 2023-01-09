@@ -27,7 +27,7 @@ Once a polynomial has been specified, we can represent the data in a residual fo
 
 #### $$L_{D|M}(x, \epsilon) = -\log p_{D|M}(\epsilon) = -\sum \log \Phi\left(\epsilon_i \pm 0.5 \times 2^{-d}\right)$$
 
-> The probability of $\epsilon$ is the sum of individual residual probabilities. This follows from the assumption that residuals are i.i.d. Also note that we exclude $L(x)$ as it's constant.
+> The probability of $\epsilon$ is the product of individual residual probabilities. This follows from the assumption that residuals are i.i.d. Also note that we exclude $L(x)$ as it's constant.
 
 Then the complete description length is given by 
 
