@@ -4,7 +4,7 @@ We apply crude MDL to efficiently regularize polynomial regression models.
 
 An order $n$ polynomial can be unambiguously described using $n$ floating-point coefficients.  We use a simple concatenative code to represent this information:
 
-#### $$C_M(M) = C_M(n,d,c_1,\dots,c_n) = C_U(d)\,||\,C_F(c_1)\,||\,\dots\,||\,C_F(c_n)$$ 
+#### $$C_M(M) = C_M(n,d,c_1,\dots,c_n) = C_U(d)||C_F(c_1)||\dots||C_F(c_n)$$ 
 
 where:
 
