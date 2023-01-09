@@ -2,7 +2,7 @@
 
 We apply crude MDL to efficiently regularize polynomial regression models.
 
-An $n$th order polynomial can be unambiguously described using $n$ floating-point coefficients. We use a simple concatenative code to represent this information:
+An $n$th order polynomial can be unambiguously described using $n$ floating-point coefficients.  We use a simple concatenative code to represent this information:
 
 where:
 
