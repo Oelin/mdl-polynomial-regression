@@ -1,2 +1,3 @@
-# mdl-polynomial-regression
-Demonstrating how to use crude MDL to regularize polynomial regression models.
+# Polynomial Regression With MDL.
+
+We demonstrate. how to use crude MDL to regularize polynomial regression models.
