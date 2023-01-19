@@ -1,4 +1,4 @@
-# Polynomial Regression With MDL
+# Polynomial Regression
 
 We apply crude MDL to efficiently regularize polynomial regression models.
 
